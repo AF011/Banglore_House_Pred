@@ -9,6 +9,28 @@ Future Foundations is an AI-driven web application aimed at transforming the rea
 - **In-depth Market Insights**: Gain valuable insights into real estate trends within selected neighborhoods.
 - **Intuitive User Interface**: Built using Streamlit, the application provides a straightforward and engaging user experience.
 
+
+## Technology Stack
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Streamlit
+- Scikit-learn
+
+## Live Application
+
+The application is live and can be accessed at [Banglore House Prediction](https://banglore-house-pred-af011.streamlit.app/).
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+Ensure you have Python installed on your system. The application was developed using Python 3.8.
+
 ## Installation
 
 Get the project up and running on your local machine by following these steps:
