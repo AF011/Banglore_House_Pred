@@ -122,7 +122,7 @@ def main():
     df = pd.read_csv('banglore_house_price.csv')
         
     if submit_button:
-        larger_text = f'''**<h4>Voilà! The future home of your dreams in :green[{location}] is valued at a splendid :rainbow[₹{result}] Lakhs 🌟</h4>**'''
+        larger_text = f'''**<h4>Voilà! The future home of your dreams in :green[{location}] is valued at a splendid :rainbow[₹{result:.2f}] Lakhs 🌟</h4>**'''
         st.markdown(larger_text, unsafe_allow_html=True)
 
         plot_scatter(df, location)
