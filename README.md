@@ -37,9 +37,6 @@ Upon starting the application, use the sidebar to enter details about the proper
 
 Contributions to the House Price Prediction project are warmly welcomed. Feel free to submit issues or pull requests.
 
-## License
-
-This project is distributed under the [MIT License](LICENSE.md).
 
 ## Contact
 
@@ -48,6 +45,5 @@ This project is distributed under the [MIT License](LICENSE.md).
 - [GitHub](https://github.com/abdulfaheemaf)
 - [Email](mailto:abdulfaheemaf11@gmail.com)
 
-```
 
 
