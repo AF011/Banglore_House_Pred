@@ -55,6 +55,9 @@ streamlit run app.py
 
 Upon starting the application, use the sidebar to enter details about the property you're interested in, such as its location, area type, square footage, and the number of bedrooms, bathrooms, and balconies. Hit "Predict" to see the estimated price along with relevant analytics.
 
+
+🔗 Check out the live application here: https://banglore-house-pred-af011.streamlit.app/
+
 ## Contributing
 
 Contributions to the House Price Prediction project are warmly welcomed. Feel free to submit issues or pull requests.
